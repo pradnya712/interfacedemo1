@@ -63,8 +63,6 @@ public class ResultAB {
 	           cal.calculate();
 	           Calculation cals=new division();
 	           cals.calculate();
-	       
-
-	}
+	       	}
 
 }
